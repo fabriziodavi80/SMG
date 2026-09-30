@@ -1,3 +1,3 @@
 # SMG (spostata)
 
-L'app ora vive su https://fabriziodavi80.github.io/SudoMaGodo/
+L'app ora vive su https://smg-sudomagodo.github.io/
