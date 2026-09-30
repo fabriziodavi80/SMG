@@ -3,6 +3,7 @@
   "short_name": "SMG",
   "description": "Ogni giorno una seduta diversa per bici e corsa, adattata a come stai",
   "lang": "it",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
